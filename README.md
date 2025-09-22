@@ -9,4 +9,4 @@ Go-Download-Static-Files -port=8080 -root="D:\temp\seata"
 Go-Download-Static-Files --port=8080 --root="D:\\temp\\seata"
 ```
 注意事项：  
-根目录下最好不要存在"download"、"view"目录，解析会报错。
+根目录下不要存在"download"、"view"目录，解析会报错。
